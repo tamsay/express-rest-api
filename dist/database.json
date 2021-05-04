@@ -1,0 +1,44 @@
+[
+  {
+    "organization": "decagon",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "decadevs",
+      "badminton"
+    ],
+    "marketValue": "0%",
+    "address": " ssde",
+    "ceo": "tope",
+    "country": "bnbgfv",
+    "id": 2,
+    "noOfEmployees": 200,
+    "employees": [
+      " bond",
+      "jac"
+    ]
+  },
+  {
+    "organization": "decagon",
+    "createdAt": "2020-08-12T19:04:55.455Z",
+    "updatedAt": "2020-08-12T19:04:55.455Z",
+    "products": [
+      "decadevs",
+      "badminton"
+    ],
+    "marketValue": "0%",
+    "address": " ssde",
+    "ceo": "tope",
+    "country": "bnbgfv",
+    "id": 3,
+    "noOfEmployees": 200,
+    "employees": [
+      " bond",
+      "jac"
+    ]
+  },
+  {
+    "createdAt": "Tue May 04 2021 02:17:37",
+    "updatedAt": "Tue May 04 2021 02:17:37"
+  }
+]
